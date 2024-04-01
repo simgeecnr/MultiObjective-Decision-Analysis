@@ -4,6 +4,4 @@ This repository contains the implementation of a bi-objective programming model 
 
 ## Citation:
 
-If you use this code or find this repository helpful in your research, please consider citing the original paper:
-
 [1] Salimifard, K., Li, J., Mohammadi, D. et al. A multi objective volleyball premier league algorithm for green scheduling identical parallel machines with splitting jobs. Appl Intell 51, 4143–4161 (2021). https://doi.org/10.1007/s10489-020-02027-1
